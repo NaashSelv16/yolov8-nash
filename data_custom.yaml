@@ -1,0 +1,8 @@
+path: C:\Users\I3DR\yolov8_custom-nash\train
+train: C:\Users\I3DR\yolov8_custom-nash\train\images
+val: C:\Users\I3DR\yolov8_custom-nash\val\images
+
+nc: 1
+
+names: ["split"]
+
